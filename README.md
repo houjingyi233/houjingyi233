@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-binary vulnerability hunting.
+reverse engineering and vulnerability hunting.
 
 [https://houjingyi233.com](https://houjingyi233.com)
 
