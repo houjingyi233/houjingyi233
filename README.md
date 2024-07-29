@@ -8,4 +8,4 @@ reverse engineering and vulnerability hunting.
 
 houjingyi647@gmail.com
 
-![](https://raw.githubusercontent.com/houjingyi233/githubSNK/output/github-contribution-grid-snake-dark.svg)
+![](https://raw.githubusercontent.com/houjingyi233/githubSNK/output/github-contribution-grid-snake.svg)
